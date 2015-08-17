@@ -1,0 +1,22 @@
+SMAP
+carrinho_jsp.java
+JSP
+*S JSP
+*F
++ 0 carrinho.jsp
+carrinho.jsp
++ 1 header.jsp
+include/header.jsp
+*L
+5,4:56
+1#1,81:59
+81:15
+81,2:140
+82,4:142
+85,2:146
+87:148,3
+88,30:151
+8#0,8:180
+16,7:189
+22,8:196
+*E

@@ -1,0 +1,7 @@
+---recuparacao de email
+---parte do administrador(editar, apagar e adicionar produtos)
+---email alternativo
+---pagina do checkout
+---disponibilidade dos produtos(stock e disponiveis)
+---listar produtos por marca, preco
+---quantidade dos produtos

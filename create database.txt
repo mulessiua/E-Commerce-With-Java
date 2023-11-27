@@ -57,3 +57,5 @@ insert into produto values(null,"Teclado","HP T89","Teclado, 124 teclas, teclas 
 insert into produto values(null,"Teclado","IBM I144","Teclado, 102 teclas, teclas numericas",214.5,"keyboard2.jpg",11,2);
 insert into produto values(null,"Teclado","Acer A122","Teclado, 101 teclas, teclas numericas",205.0,"keyboard3.gif",55,7);
 insert into produto values(null,"Teclado","Lenovo L10","Teclado, 112 teclas, teclas numericas",211.5,"keyboard4.jpg",0,3);
+
+show databases;
